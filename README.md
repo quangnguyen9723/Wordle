@@ -1,4 +1,4 @@
-# Project 1 - _Name of App Here_
+# Project 1 - Wordee
 
 Submitted by: Quang Nguyen
 
@@ -25,8 +25,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='https://imgur.com/a/U7dfRkP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Created by Mac's built-in screen recording and Imgur
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc3OGh0NWc5ajB5bnUzMWtjcXd2dnZxdXI4ZmtjeXl3aWkxd3dzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZN1fvLsY1FX3hkzQ0p/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Created by Mac's built-in screen recording and GIPHY
 
 ## Notes
 

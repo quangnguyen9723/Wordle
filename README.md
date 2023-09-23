@@ -1,8 +1,8 @@
-# Project 1 - *Name of App Here*
+# Project 1 - _Name of App Here_
 
-Submitted by: Quang Nguyen  
+Submitted by: Quang Nguyen
 
-Wordee is an app that ... [TODO] 
+Wordee is a word puzzle game that challenges players to guess a secret word within a limited number of attempts
 
 Time spent: 0.5 hours spent in total
 
@@ -25,10 +25,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<img src='https://imgur.com/a/U7dfRkP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Created by Mac's built-in screen recording and Imgur
 
 ## Notes
 
